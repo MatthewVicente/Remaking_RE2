@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3028199df3ba4d4286cad7f0f067aab, type: 3}
+  m_Name: FlameThrower
+  m_EditorClassIdentifier: 
+  itemName: FlameThrower
+  itemModel: {fileID: 1668803107206519863, guid: c0b27af73dc34e94488b92e8773e2a31, type: 3}
+  weaponAnimator: {fileID: 22100000, guid: c8221839d3451414b9d3f0ca5ff12119, type: 2}
